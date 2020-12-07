@@ -1,0 +1,25 @@
+,time,temperature,feels_like,wind speed,humidity,precipitation,weather
+0,03.00AM,24,26,9km/h,57%,0%,Clear.
+1,04.00AM,24,25,9km/h,55%,0%,Clear.
+2,05.00AM,24,25,9km/h,54%,0%,Clear.
+3,06.00AM,24,25,9km/h,54%,0%,Sunny.
+4,07.00AM,24,25,9km/h,53%,0%,Sunny.
+5,08.00AM,24,26,10km/h,49%,0%,Sunny.
+6,09.00AM,27,27,11km/h,45%,0%,Sunny.
+7,10.00AM,29,28,11km/h,44%,0%,Sunny.
+8,11.00AM,30,30,12km/h,43%,0%,Sunny.
+9,12.00PM,31,31,12km/h,42%,0%,Sunny.
+10,13.00PM,32,32,12km/h,42%,0%,Sunny.
+11,14.00PM,32,32,12km/h,43%,0%,Sunny.
+12,15.00PM,32,32,14km/h,45%,0%,Sunny.
+13,16.00PM,31,32,18km/h,46%,0%,Sunny.
+14,17.00PM,29,30,17km/h,50%,0%,Sunny.
+15,18.00PM,29,30,14km/h,56%,0%,Sunny.
+16,19.00PM,28,29,12km/h,61%,0%,Clear.
+17,20.00PM,28,29,11km/h,63%,0%,Clear.
+18,21.00PM,27,29,10km/h,64%,0%,Clear.
+19,22.00PM,27,28,9km/h,64%,0%,Clear.
+20,23.00PM,26,27,9km/h,64%,0%,Clear.
+21,00.00AM,26,27,9km/h,63%,0%,Clear.
+22,01.00AM,26,27,9km/h,61%,0%,Clear.
+23,02.00AM,25,26,9km/h,61%,0%,Clear.

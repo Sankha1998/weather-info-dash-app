@@ -1,0 +1,25 @@
+,time,temperature,feels_like,wind speed,humidity,precipitation,weather
+0,03.00AM,6,4,9km/h,63%,0%,High level clouds.
+1,04.00AM,6,4,9km/h,62%,0%,High level clouds.
+2,05.00AM,6,4,9km/h,62%,0%,High level clouds.
+3,06.00AM,6,4,8km/h,62%,0%,High level clouds.
+4,07.00AM,6,5,8km/h,62%,0%,High level clouds.
+5,08.00AM,8,7,7km/h,59%,0%,High level clouds.
+6,09.00AM,10,9,8km/h,55%,0%,High level clouds.
+7,10.00AM,12,11,8km/h,51%,0%,High level clouds.
+8,11.00AM,13,13,8km/h,49%,0%,High level clouds.
+9,12.00PM,14,14,9km/h,48%,1%,High level clouds.
+10,13.00PM,14,14,9km/h,49%,1%,High level clouds.
+11,14.00PM,14,13,9km/h,53%,1%,High level clouds.
+12,15.00PM,12,11,8km/h,59%,1%,High level clouds.
+13,16.00PM,10,9,6km/h,68%,1%,High level clouds.
+14,17.00PM,8,7,5km/h,73%,1%,High level clouds.
+15,18.00PM,6,5,7km/h,76%,1%,Clear.
+16,19.00PM,6,4,8km/h,75%,1%,Clear.
+17,20.00PM,6,4,9km/h,72%,1%,Clear.
+18,21.00PM,5,3,9km/h,70%,1%,Clear.
+19,22.00PM,5,3,9km/h,68%,1%,Clear.
+20,23.00PM,5,3,9km/h,66%,1%,Clear.
+21,00.00AM,6,4,9km/h,66%,1%,Clear.
+22,01.00AM,6,4,9km/h,65%,1%,Clear.
+23,02.00AM,6,4,9km/h,65%,1%,Clear.

@@ -1,25 +1,25 @@
-,time,temperature,feels_like,wind speed,humidity,precipitation,weather
-0,03.00AM,20,20,13km/h,95%,9%,Cloudy.
-1,04.00AM,20,20,14km/h,94%,9%,Cloudy.
-2,05.00AM,20,20,14km/h,95%,9%,Cloudy.
-3,06.00AM,20,20,15km/h,95%,11%,Cloudy.
-4,07.00AM,20,20,17km/h,95%,12%,Cloudy.
-5,08.00AM,21,21,18km/h,91%,14%,Cloudy.
-6,09.00AM,22,21,18km/h,86%,56%,A few showers. Cloudy.
-7,10.00AM,23,23,18km/h,80%,57%,A few showers. Cloudy.
-8,11.00AM,24,24,18km/h,76%,58%,A few showers. Cloudy.
-9,12.00PM,24,25,18km/h,73%,57%,A few showers. Cloudy.
-10,13.00PM,25,26,18km/h,73%,56%,A few showers. Mostly cloudy.
-11,14.00PM,26,27,17km/h,72%,55%,Isolated tstorms. Mostly cloudy.
-12,15.00PM,25,26,17km/h,74%,79%,A few tstorms. Mostly cloudy.
-13,16.00PM,24,24,16km/h,79%,73%,A few tstorms. Mostly cloudy.
-14,17.00PM,22,22,15km/h,85%,37%,Light showers. Mostly cloudy.
-15,18.00PM,22,21,14km/h,88%,40%,A few showers. Mostly cloudy.
-16,19.00PM,21,21,13km/h,90%,43%,A few showers. Mostly cloudy.
-17,20.00PM,21,21,12km/h,90%,46%,A few showers. Mostly cloudy.
-18,21.00PM,21,21,12km/h,91%,45%,A few showers. Mostly cloudy.
-19,22.00PM,21,21,11km/h,92%,45%,A few showers. Mostly cloudy.
-20,23.00PM,21,21,11km/h,93%,44%,A few showers. Mostly cloudy.
-21,00.00AM,21,21,10km/h,94%,10%,Mostly cloudy.
-22,01.00AM,20,20,10km/h,95%,10%,Mostly cloudy.
-23,02.00AM,20,20,10km/h,95%,10%,Mostly cloudy.
+time,temperature,feels_like,wind speed,humidity,precipitation,weather
+00.00AM,18,18,9km/h,86%,4%,Passing clouds.
+01.00AM,18,18,9km/h,88%,3%,Passing clouds.
+02.00AM,18,18,8km/h,90%,3%,Passing clouds.
+03.00AM,17,17,8km/h,93%,3%,Passing clouds.
+04.00AM,17,17,8km/h,94%,3%,Passing clouds.
+05.00AM,17,17,8km/h,94%,2%,Clear.
+06.00AM,17,17,8km/h,95%,2%,Sunny.
+07.00AM,16,16,9km/h,99%,2%,Sunny.
+08.00AM,18,18,10km/h,87%,1%,Sunny.
+09.00AM,21,21,10km/h,73%,1%,Sunny.
+10.00AM,23,25,10km/h,59%,1%,Mostly sunny.
+11.00AM,25,26,10km/h,50%,0%,Mostly sunny.
+12.00PM,26,26,11km/h,44%,0%,Mostly sunny.
+13.00PM,27,27,11km/h,40%,0%,Mostly sunny.
+14.00PM,27,27,12km/h,39%,0%,Mostly sunny.
+15.00PM,26,26,12km/h,41%,0%,Mostly sunny.
+16.00PM,25,26,12km/h,46%,0%,Mostly sunny.
+17.00PM,24,25,11km/h,53%,0%,Mostly sunny.
+18.00PM,22,25,10km/h,61%,1%,Mostly clear.
+19.00PM,21,21,10km/h,69%,2%,Mostly clear.
+20.00PM,20,20,9km/h,75%,2%,Mostly clear.
+21.00PM,19,19,9km/h,79%,2%,Mostly clear.
+22.00PM,18,18,9km/h,82%,2%,Passing clouds.
+23.00PM,18,18,8km/h,85%,2%,Passing clouds.

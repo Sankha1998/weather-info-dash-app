@@ -65,7 +65,7 @@ app.layout=html.Div([
  ## dropdown
             html.Div([
                 html.Div([
-                    html.Img(src='static/img/{}'.format('kolkata.jpg')
+                    html.Img(src='static/img/{}'.format('Kolkata.jpg')
                     ,id='city_pic',className='card-img-top',style={'padding':'20px'}),
                     html.Div([
                         html.Div([
@@ -103,7 +103,7 @@ app.layout=html.Div([
 @app.callback(Output('city_pic','src'),Output('weather-plot','figure'),[Input('city_name','value')])
 def update_graph(type):
     if type == 'kolkata':
-        return 'static/img/{}.jpg'.format('kolkata'),{'data':[go.Bar(y=kolkata['temperature'], x=kolkata['time'], marker={'color': '#ffba83'}, name='Expected', width=np.ones(24) * 0.75),
+        return 'static/img/{}.jpg'.format('Kolkata'),{'data':[go.Bar(y=kolkata['temperature'], x=kolkata['time'], marker={'color': '#ffba83'}, name='Expected', width=np.ones(24) * 0.75),
                                                       go.Scatter(y=kolkata['feels_like'], x=kolkata['time'], marker={'color': '#cfff30'},
                                                                  customdata=np.transpose([kolkata['wind speed'], kolkata['humidity'], kolkata['weather'], kolkata['feels_like'],kolkata['precipitation'],kolkata['time']]),
                                                                  name='Prediction Line',

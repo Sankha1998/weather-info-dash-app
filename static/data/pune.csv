@@ -1,25 +1,25 @@
-,time,temperature,feels_like,wind speed,humidity,precipitation,weather
-0,03.00AM,17,17,8km/h,65%,0%,Clear.
-1,04.00AM,16,16,8km/h,68%,0%,Clear.
-2,05.00AM,16,16,8km/h,70%,0%,Clear.
-3,06.00AM,16,16,8km/h,73%,0%,Sunny.
-4,07.00AM,16,16,8km/h,73%,0%,Sunny.
-5,08.00AM,18,18,8km/h,67%,0%,Sunny.
-6,09.00AM,22,25,10km/h,57%,0%,Sunny.
-7,10.00AM,25,26,13km/h,50%,0%,Sunny.
-8,11.00AM,27,27,14km/h,45%,0%,Sunny.
-9,12.00PM,29,29,14km/h,40%,0%,Sunny.
-10,13.00PM,30,29,13km/h,35%,0%,Sunny.
-11,14.00PM,30,29,12km/h,34%,0%,Sunny.
-12,15.00PM,31,30,11km/h,33%,0%,Sunny.
-13,16.00PM,30,29,10km/h,34%,0%,Sunny.
-14,17.00PM,28,28,9km/h,37%,0%,Sunny.
-15,18.00PM,26,26,8km/h,43%,0%,Clear.
-16,19.00PM,24,26,8km/h,49%,0%,Clear.
-17,20.00PM,22,25,7km/h,55%,0%,Clear.
-18,21.00PM,20,20,6km/h,60%,0%,Clear.
-19,22.00PM,19,19,6km/h,63%,0%,Clear.
-20,23.00PM,18,18,6km/h,65%,0%,Clear.
-21,00.00AM,18,18,5km/h,66%,0%,Clear.
-22,01.00AM,17,17,5km/h,68%,0%,Clear.
-23,02.00AM,17,17,5km/h,69%,0%,Clear.
+time,temperature,feels_like,wind speed,humidity,precipitation,weather
+00.00AM,23,24,6km/h,66%,9%,Broken clouds.
+01.00AM,22,24,6km/h,65%,8%,Broken clouds.
+02.00AM,22,24,6km/h,65%,7%,Broken clouds.
+03.00AM,22,24,6km/h,66%,7%,Broken clouds.
+04.00AM,21,21,6km/h,67%,7%,Broken clouds.
+05.00AM,20,20,6km/h,70%,7%,Broken clouds.
+06.00AM,20,20,6km/h,73%,6%,More clouds than sun.
+07.00AM,19,19,5km/h,74%,5%,More clouds than sun.
+08.00AM,22,24,6km/h,65%,5%,More clouds than sun.
+09.00AM,25,26,7km/h,56%,6%,More clouds than sun.
+10.00AM,27,27,8km/h,50%,7%,More clouds than sun.
+11.00AM,29,29,8km/h,46%,9%,More clouds than sun.
+12.00PM,30,30,9km/h,43%,9%,More clouds than sun.
+13.00PM,31,31,9km/h,42%,10%,More clouds than sun.
+14.00PM,31,31,9km/h,42%,10%,More clouds than sun.
+15.00PM,31,31,9km/h,44%,11%,More clouds than sun.
+16.00PM,30,30,10km/h,48%,12%,More clouds than sun.
+17.00PM,28,29,10km/h,54%,6%,More clouds than sun.
+18.00PM,27,28,9km/h,59%,7%,Broken clouds.
+19.00PM,25,26,8km/h,65%,8%,Broken clouds.
+20.00PM,24,25,8km/h,70%,9%,Broken clouds.
+21.00PM,24,25,7km/h,71%,35%,A few showers. Broken clouds.
+22.00PM,23,24,7km/h,73%,35%,A few showers. Broken clouds.
+23.00PM,23,24,7km/h,74%,34%,A few showers. Broken clouds.

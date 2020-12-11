@@ -1,25 +1,25 @@
-,time,temperature,feels_like,wind speed,humidity,precipitation,weather
-0,03.00AM,14,14,4km/h,87%,0%,Clear.
-1,04.00AM,13,13,4km/h,88%,0%,Clear.
-2,05.00AM,13,13,4km/h,88%,0%,Clear.
-3,06.00AM,13,13,5km/h,88%,0%,Sunny.
-4,07.00AM,14,14,6km/h,84%,0%,Sunny.
-5,08.00AM,16,16,6km/h,75%,0%,Sunny.
-6,09.00AM,19,19,7km/h,63%,0%,Sunny.
-7,10.00AM,22,25,7km/h,55%,0%,Sunny.
-8,11.00AM,24,26,8km/h,50%,0%,Sunny.
-9,12.00PM,26,26,9km/h,43%,0%,Sunny.
-10,13.00PM,27,27,10km/h,38%,0%,Sunny.
-11,14.00PM,28,27,11km/h,36%,0%,Sunny.
-12,15.00PM,27,27,10km/h,36%,0%,Sunny.
-13,16.00PM,26,26,9km/h,39%,0%,Sunny.
-14,17.00PM,24,25,8km/h,46%,0%,Sunny.
-15,18.00PM,22,25,8km/h,53%,0%,Clear.
-16,19.00PM,20,20,8km/h,59%,0%,Clear.
-17,20.00PM,19,19,7km/h,65%,0%,Clear.
-18,21.00PM,17,17,7km/h,71%,0%,Clear.
-19,22.00PM,16,16,6km/h,75%,0%,Clear.
-20,23.00PM,15,16,6km/h,78%,0%,Clear.
-21,00.00AM,15,15,6km/h,81%,0%,Clear.
-22,01.00AM,14,14,5km/h,83%,0%,Clear.
-23,02.00AM,13,13,4km/h,85%,0%,Clear.
+time,temperature,feels_like,wind speed,humidity,precipitation,weather
+00.00AM,15,16,6km/h,86%,0%,Clear.
+01.00AM,15,15,7km/h,86%,0%,Clear.
+02.00AM,15,15,7km/h,85%,0%,Clear.
+03.00AM,15,15,7km/h,85%,0%,Clear.
+04.00AM,14,14,6km/h,86%,0%,Clear.
+05.00AM,14,14,6km/h,87%,0%,Clear.
+06.00AM,14,13,6km/h,88%,0%,Sunny.
+07.00AM,14,14,6km/h,86%,0%,High level clouds.
+08.00AM,16,16,6km/h,78%,0%,High level clouds.
+09.00AM,19,19,6km/h,67%,1%,High level clouds.
+10.00AM,22,25,7km/h,58%,1%,More sun than clouds.
+11.00AM,24,25,8km/h,53%,1%,More sun than clouds.
+12.00PM,25,26,8km/h,47%,2%,More sun than clouds.
+13.00PM,26,26,9km/h,44%,3%,More sun than clouds.
+14.00PM,26,26,8km/h,42%,4%,High level clouds.
+15.00PM,26,26,8km/h,43%,5%,High level clouds.
+16.00PM,25,26,8km/h,47%,6%,More sun than clouds.
+17.00PM,23,25,8km/h,53%,7%,More sun than clouds.
+18.00PM,22,25,9km/h,56%,6%,Passing clouds.
+19.00PM,22,25,9km/h,59%,5%,Passing clouds.
+20.00PM,21,21,9km/h,62%,4%,Passing clouds.
+21.00PM,20,20,9km/h,66%,4%,Passing clouds.
+22.00PM,19,19,9km/h,71%,3%,Passing clouds.
+23.00PM,19,19,9km/h,74%,2%,Passing clouds.
